@@ -1,0 +1,10 @@
+#content {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 4px solid blueviolet;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    transition: .8s;
+}
